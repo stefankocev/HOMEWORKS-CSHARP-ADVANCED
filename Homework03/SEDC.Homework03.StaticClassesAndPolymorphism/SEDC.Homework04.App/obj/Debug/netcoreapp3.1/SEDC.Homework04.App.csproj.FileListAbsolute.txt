@@ -1,0 +1,11 @@
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\bin\Debug\netcoreapp3.1\SEDC.Homework04.App.exe
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\bin\Debug\netcoreapp3.1\SEDC.Homework04.App.deps.json
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\bin\Debug\netcoreapp3.1\SEDC.Homework04.App.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\bin\Debug\netcoreapp3.1\SEDC.Homework04.App.runtimeconfig.dev.json
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\bin\Debug\netcoreapp3.1\SEDC.Homework04.App.dll
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\bin\Debug\netcoreapp3.1\SEDC.Homework04.App.pdb
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\obj\Debug\netcoreapp3.1\SEDC.Homework04.App.csprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\obj\Debug\netcoreapp3.1\SEDC.Homework04.App.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\obj\Debug\netcoreapp3.1\SEDC.Homework04.App.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\obj\Debug\netcoreapp3.1\SEDC.Homework04.App.dll
+C:\Users\stefa\OneDrive\Desktop\HOMEWORK\C# ADVANCED\HOMEWORKS-CSHARP-ADVANCED\Homework03\SEDC.Homework03.StaticClassesAndPolymorphism\SEDC.Homework04.App\obj\Debug\netcoreapp3.1\SEDC.Homework04.App.pdb
