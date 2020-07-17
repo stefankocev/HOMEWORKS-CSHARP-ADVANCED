@@ -1,0 +1,16 @@
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.exe
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.deps.json
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.runtimeconfig.dev.json
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.dll
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.pdb
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.csprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.dll
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.pdb
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.dll
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Services.dll
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.pdb
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Services.pdb
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.App\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.App.csproj.CopyComplete

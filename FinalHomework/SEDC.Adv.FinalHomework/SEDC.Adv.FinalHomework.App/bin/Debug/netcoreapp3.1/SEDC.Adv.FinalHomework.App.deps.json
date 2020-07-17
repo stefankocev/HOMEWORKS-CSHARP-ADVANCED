@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Adv.FinalHomework.App/1.0.0": {
+        "dependencies": {
+          "SEDC.Adv.FinalHomework.Db": "1.0.0",
+          "SEDC.Adv.FinalHomework.Services": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Adv.FinalHomework.App.dll": {}
+        }
+      },
+      "SEDC.Adv.FinalHomework.Db/1.0.0": {
+        "runtime": {
+          "SEDC.Adv.FinalHomework.Db.dll": {}
+        }
+      },
+      "SEDC.Adv.FinalHomework.Services/1.0.0": {
+        "dependencies": {
+          "SEDC.Adv.FinalHomework.Db": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Adv.FinalHomework.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Adv.FinalHomework.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Adv.FinalHomework.Db/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Adv.FinalHomework.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

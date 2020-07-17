@@ -1,0 +1,8 @@
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.Db\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.deps.json
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.Db\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.dll
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.Db\bin\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.pdb
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.Db\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.csprojAssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.Db\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.Db\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.Db\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.dll
+C:\Users\stefa\OneDrive\Desktop\FinalHomework\SEDC.Adv.FinalHomework\SEDC.Adv.FinalHomework.Db\obj\Debug\netcoreapp3.1\SEDC.Adv.FinalHomework.Db.pdb
