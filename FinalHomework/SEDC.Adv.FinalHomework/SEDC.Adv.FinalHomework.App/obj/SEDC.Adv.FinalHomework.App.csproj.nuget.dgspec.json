@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\SEDC.Adv.FinalHomework.App.csproj": {}
+    "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\SEDC.Adv.FinalHomework.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\SEDC.Adv.FinalHomework.App.csproj": {
+    "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\SEDC.Adv.FinalHomework.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\SEDC.Adv.FinalHomework.App.csproj",
+        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\SEDC.Adv.FinalHomework.App.csproj",
         "projectName": "SEDC.Adv.FinalHomework.App",
-        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\SEDC.Adv.FinalHomework.App.csproj",
+        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\SEDC.Adv.FinalHomework.App.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\obj\\",
+        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,11 +31,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {
-                "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj"
+              "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {
+                "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj"
               },
-              "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj": {
-                "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj"
+              "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj": {
+                "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {
+    "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj",
+        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj",
         "projectName": "SEDC.Adv.FinalHomework.Db",
-        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj",
+        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\obj\\",
+        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -123,14 +123,14 @@
         }
       }
     },
-    "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj": {
+    "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj",
+        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj",
         "projectName": "SEDC.Adv.FinalHomework.Services",
-        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj",
+        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\SEDC.Adv.FinalHomework.Services.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\obj\\",
+        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -150,8 +150,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {
-                "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj"
+              "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {
+                "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj"
               }
             }
           }

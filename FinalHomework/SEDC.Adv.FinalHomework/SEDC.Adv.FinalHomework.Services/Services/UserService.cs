@@ -24,7 +24,7 @@ namespace SEDC.Adv.FinalHomework.Services
             int timesTried = 3;
             while (timesTried > 0)
             {
-                MessageHelper.Color($"Be aware. You have {timesTried} times to try logging in.", ConsoleColor.Yellow);
+                MessageHelper.ColoredMessage($"Be aware. You have {timesTried} times to try logging in.", ConsoleColor.Yellow);
                 Console.WriteLine("Enter username:");
                 string username = Console.ReadLine();
                 Console.WriteLine("Enter password:");
@@ -33,18 +33,18 @@ namespace SEDC.Adv.FinalHomework.Services
                 User userLoggedIn = _db.GetAllUsers().FirstOrDefault(user => user.Username == username && user.Password == password);
                 if (userLoggedIn != null)
                 {
-                    MessageHelper.Color($"Welcome {userLoggedIn.FirstName}.You are successfully logged in.", ConsoleColor.Green);
+                    MessageHelper.ColoredMessage($"Welcome {userLoggedIn.FirstName}.You are successfully logged in.", ConsoleColor.Green);
                     
                     return userLoggedIn;
                 }
                 else
                 {
                     timesTried--;
-                    MessageHelper.Color($"You have entered a wrong username or password.{timesTried} attempts left.", ConsoleColor.Red);
+                    MessageHelper.ColoredMessage($"You have entered a wrong username or password.{timesTried} attempts left.", ConsoleColor.Red);
                 }
 
             }
-            MessageHelper.Color("You have entered wrong username/password 3 times. The application is closing...", ConsoleColor.Red);
+            MessageHelper.ColoredMessage("You have entered wrong username/password 3 times. The application is closing...", ConsoleColor.Red);
             Thread.Sleep(2000);
             return null;
         }
@@ -57,7 +57,7 @@ namespace SEDC.Adv.FinalHomework.Services
             Console.Write("Enter your surname:");
             newUser.LastName = ValidationHelper.ValidateString(Console.ReadLine());
             Console.Write("How old are you?");
-            int age = ValidationHelper.ValidateAge(Console.ReadLine());
+            newUser.Age = ValidationHelper.ValidateAge(Console.ReadLine());
             Console.Write("Enter Username(must be longer than 5 characters):");
             newUser.Username = ValidationHelper.ValidateString(Console.ReadLine());
             Console.Write("Enter Password(should contain at least one capital letter and one number):");
@@ -69,14 +69,14 @@ namespace SEDC.Adv.FinalHomework.Services
                 newUser.Username == null ||
                 newUser.Password == null)
             {
-                MessageHelper.Color("There was something wrong with the registration.Try again!", ConsoleColor.Red);
+                MessageHelper.ColoredMessage("There was something wrong with the registration.Try again!", ConsoleColor.Red);
                 return null;
             }
             Console.WriteLine("Registering user...");
             Styles.Spiner();
             Thread.Sleep(2000);
             _db.InsertUser(newUser);
-            MessageHelper.Color("You are successfuly registered.", ConsoleColor.Green);
+            MessageHelper.ColoredMessage("You are successfuly registered.", ConsoleColor.Green);
             return newUser;
         }
         public void ChangeInfo(int userId, string userName, string password)
@@ -84,7 +84,7 @@ namespace SEDC.Adv.FinalHomework.Services
             User userFound = _db.GetUserById(userId);
             userFound.Username = userName;
             userFound.Password = password;
-            MessageHelper.Color("You have successfuly changed your info!", ConsoleColor.Green);
+            MessageHelper.ColoredMessage("You have successfuly changed your info!", ConsoleColor.Green);
         }
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {}
+    "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {
+    "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj",
+        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj",
         "projectName": "SEDC.Adv.FinalHomework.Db",
-        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj",
+        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\SEDC.Adv.FinalHomework.Db.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\obj\\",
+        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\HOMEWORK\\C# ADVANCED\\HOMEWORKS-CSHARP-ADVANCED\\FinalHomework\\SEDC.Adv.FinalHomework\\SEDC.Adv.FinalHomework.Db\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

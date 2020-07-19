@@ -15,7 +15,7 @@ namespace SEDC.Adv.FinalHomework.Services.AppMenus
                 var userInput = ValidationHelper.ValidateNumber(Console.ReadLine(), range);
                 if (userInput == -1)
                 {
-                    MessageHelper.Color($"Wrong number entered.Enter a number between 1 and {range}", ConsoleColor.Red);
+                    MessageHelper.ColoredMessage($"Wrong number entered.Enter a number between 1 and {range}", ConsoleColor.Red);
                     continue;
                 }
                 return userInput;
@@ -31,16 +31,16 @@ namespace SEDC.Adv.FinalHomework.Services.AppMenus
             Console.WriteLine("3. Exit application.");
             return MenuChoiceValidation(3);
         }
-        public void MainMenu()
+        public int MainMenu()
         {
             Console.WriteLine("Please choose one of the options");
             Console.WriteLine("1. Track Activity.");
             Console.WriteLine("2. Statistics.");
             Console.WriteLine("3. Account Management.");
             Console.WriteLine("4. Log Out.");
-            MenuChoiceValidation(4);
+            return MenuChoiceValidation(3);
         }
-        public void TrackMenu()
+        public int TrackMenu()
         {
             Console.WriteLine("What are you doing today?");
             Console.WriteLine("1. Reading.");
@@ -48,40 +48,40 @@ namespace SEDC.Adv.FinalHomework.Services.AppMenus
             Console.WriteLine("3. Working.");
             Console.WriteLine("4. Other hobbies.");
             Console.WriteLine("5. Go back.");
-            MenuChoiceValidation(5);
+            return MenuChoiceValidation(5);
         }
-        public void ReadingMenu()
+        public int ReadingMenu()
         {
             Console.WriteLine("What type of book are your reading today?");
             Console.WriteLine("1. Belles Lettres.");
             Console.WriteLine("2. Fiction.");
             Console.WriteLine("3. Professional Literature.");
-            MenuChoiceValidation(3);
+            return MenuChoiceValidation(3);
         }
-        public void ExercisingMenu()
+        public int ExercisingMenu()
         {
             Console.WriteLine("What type of exercising are your doing today?");
             Console.WriteLine("1. General.");
             Console.WriteLine("2. Running.");
             Console.WriteLine("3. Sport.");
-            MenuChoiceValidation(3);
+            return MenuChoiceValidation(3);
         }
-        public void WorkingMenu()
+        public int WorkingMenu()
         {
             Console.WriteLine("Where are you working today from?");
             Console.WriteLine("1. Home");
             Console.WriteLine("2. At the office");
-            MenuChoiceValidation(2);
+            return MenuChoiceValidation(2);
         }
-        public void AccountManagementMenu()
+        public int AccountManagementMenu()
         {
             Console.WriteLine("1. Change password.");
             Console.WriteLine("2. Change First or Last Name.");
             Console.WriteLine("3. Deactivate account.");
             Console.WriteLine("4. Go back.");
-            MenuChoiceValidation(4);
+            return MenuChoiceValidation(4);
         }
-        public void StatisticsMenu()
+        public int StatisticsMenu()
         {
             Console.WriteLine("Which statistics would you like to be shown?");
             Console.WriteLine("1. Reading.");
@@ -90,7 +90,7 @@ namespace SEDC.Adv.FinalHomework.Services.AppMenus
             Console.WriteLine("4. Other Hobbies.");
             Console.WriteLine("5. Global.");
             Console.WriteLine("6. Go back.");
-            MenuChoiceValidation(6);
+            return MenuChoiceValidation(6);
         }
     }
 }

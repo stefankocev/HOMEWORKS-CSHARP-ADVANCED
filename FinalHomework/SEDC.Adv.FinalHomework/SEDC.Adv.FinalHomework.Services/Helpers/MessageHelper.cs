@@ -6,7 +6,7 @@ namespace SEDC.Adv.FinalHomework.Services.Helpers
 {
 	public static class MessageHelper
 	{
-		public static void Color(string message, ConsoleColor color)
+		public static void ColoredMessage(string message, ConsoleColor color)
 		{
 			Console.ForegroundColor = color;
 			Console.WriteLine(message);

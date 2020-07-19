@@ -47,10 +47,21 @@ namespace SEDC.Adv.FinalHomework.Services.Helpers
             {
                 return null;
             }
-
+            int number = 0;
+            int upperLetter = 0;
             foreach (char character in password.ToCharArray())
             {
-                if (char.IsNumber(character) && char.IsUpper(character))
+                if (char.IsNumber(character))
+                {
+                    number++;
+                    
+                }
+                if (char.IsUpper(character))
+                {
+                    upperLetter++;
+                    
+                }
+                if(number == 0 || upperLetter == 0)
                 {
                     return password;
                 }

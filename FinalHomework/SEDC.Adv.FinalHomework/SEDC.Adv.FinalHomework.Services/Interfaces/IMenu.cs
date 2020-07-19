@@ -8,12 +8,12 @@ namespace SEDC.Adv.FinalHomework.Services.Interfaces
     {
         int MenuChoiceValidation(int range);
         int StartMenu();
-        void MainMenu();
-        void TrackMenu();
-        void ReadingMenu();
-        void ExercisingMenu();
-        void WorkingMenu();
-        void AccountManagementMenu();
-        void StatisticsMenu();
+        int MainMenu();
+        int TrackMenu();
+        int ReadingMenu();
+        int ExercisingMenu();
+        int WorkingMenu();
+        int AccountManagementMenu();
+        int StatisticsMenu();
     }
 }
